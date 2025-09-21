@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/OpenCore-1.0.5-yellow"/></a>
     <a href="#">
         <img src="https://img.shields.io/github/last-commit/MedoX71T/HP210G1-Hackintosh"/></a>
-    <a href="https://github.com/MedoX71T/HP210G1-Hackintosh/Releases">
+    <a href="https://github.com/MedoX71T/HP210G1-Hackintosh/releases">
         <img src="https://img.shields.io/github/v/release/medox71t/HP210G1-Hackintosh"/></a>
 </p>
 
