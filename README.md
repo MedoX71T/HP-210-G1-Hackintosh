@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.7.6-orange"></a>
-    <a href="https://support.hp.com/si-en/document/c04210558">
+    <a href="https://www.intel.com/content/dam/www/public/us/en/documents/datasheets/hp-210-g1-notebook-pc-data-sheet.pdf">
         <img src="https://img.shields.io/badge/Notebook-HP 210 G1-red"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
         <img src="https://img.shields.io/badge/OpenCore-1.0.5-yellow"/></a>
