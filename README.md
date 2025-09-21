@@ -44,7 +44,7 @@
 <summary><strong> SUMMARY </strong></summary>
 <br>
 
-> ### Non-Fuctional
+> ### Non-Functional
 
 | Feature | Status | Dependency                  |
 | :------ | ------ | --------------------------- |
