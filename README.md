@@ -10,7 +10,7 @@
     <a href="https://support.hp.com/si-en/document/c04210558">
         <img src="https://img.shields.io/badge/Notebook-HP 210 G1-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
-        <img src="https://img.shields.io/badge/OpenCore-1.0.5-green"/></a>
+        <img src="https://img.shields.io/badge/OpenCore-1.0.5-yellow"/></a>
     <a href="#">
         <img src="https://img.shields.io/github/last-commit/MedoX71T/HP210G1-Hackintosh"/></a>
     <a href="https://github.com/MedoX71T/HP210G1-Hackintosh/releases">
