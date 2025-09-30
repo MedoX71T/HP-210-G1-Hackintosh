@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="">
-        <img src="HP-210-G1.png" alt="HP 210 G1 macOS" width="800"> </a>
+        <img src="src/HP-210-G1.png" alt="HP 210 G1 macOS" width="800"> </a>
 </p>
 
 #### I am not responsible for any damages you may cause.
@@ -52,7 +52,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Hardware.png" alt="Hardware macOS" width="800"> </a>
+        <img src="src/Hardware.png" alt="Hardware macOS" width="800"> </a>
 </p>
 
 > ### Video and Audio
@@ -67,7 +67,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Video.png" alt="Video macOS" width="800"> </a> 
+        <img src="src/Video.png" alt="Video macOS" width="800"> </a> 
 </p>
 
 > ### Power, Charge, Sleep and Hibernation
@@ -82,7 +82,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Battery.png" alt="Power macOS" width="800"> </a> 
+        <img src="src/Battery.png" alt="Power macOS" width="800"> </a> 
 </p>
 
 > ### Input/ Output
@@ -97,7 +97,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Input.png" alt="Input macOS" width="800"> </a> 
+        <img src="src/Input.png" alt="Input macOS" width="800"> </a> 
 </p>
 
 > ### Display, TrackPad, TrackPoint, and Keyboard
@@ -112,7 +112,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Trackpad.png" alt="Trackpad macOS" width="800"> </a> 
+        <img src="src/Trackpad.png" alt="Trackpad macOS" width="800"> </a> 
 </p>
 
 > ### macOS Continuity
@@ -125,7 +125,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Icloud.png" alt="Icloud macOS" width="800"> </a> 
+        <img src="src/Icloud.png" alt="Icloud macOS" width="800"> </a> 
 </p>
 
 </details>
@@ -206,11 +206,11 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 | CPU         | Single-Core | Multi-Core |
 | :---------- | ----------: | ---------: |
-| Geekbench 6 |         538 |       971  |
+| Geekbench 6 |         538 |        971 |
 
 | GPU         | OpenCL | Metal |
 | :---------- | -----: | ----: |
-| Geekbench 6 |   2464 |   1023 |
+| Geekbench 6 |   2464 |  1023 |
 
 </details>
 
