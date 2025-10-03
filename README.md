@@ -32,7 +32,7 @@
 
 - Complete EFI packs are available in the releases page.
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
-- This EFI is configured with Catalina, Big Sur and Monterey.
+- This EFI is configured with Big Sur and Monterey.
 - With every EFI update you retrieve from here please remember to go through the post install guide.
 - For MacOS Monterey - Please go through [OLARILA GUIDE](https://www.olarila.com/topic/20908-easy-fast-and-perfect-vanilla-hackintosh/).
 
